@@ -1,5 +1,8 @@
-# Ignore build artifacts from the local tests sub-crate.
-/target/
+# Ignore build artifacts from the local tests sub-crate except those relevant to typechain
+/target/debug
+/target/dylint
+/target/ink/release
+/target/ink/wasm32-unknown-unknown
 
 # Ignore backup files creates by cargo fmt.
 **/*.rs.bk
