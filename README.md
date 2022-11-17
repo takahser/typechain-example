@@ -1,6 +1,6 @@
 # typechain-example
 
-Example project to test https://github.com/Supercolony-net/typechain-polkadot/
+Example project to test [typechain-polkadot](https://github.com/Supercolony-net/typechain-polkadot/)
 
 Currently, the types are not generated when using the following command:
 
