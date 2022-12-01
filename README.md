@@ -12,6 +12,8 @@ See also [this comment](https://github.com/w3f/Grant-Milestone-Delivery/pull/623
 
 ## Reproduction instructions
 
+When following these steps, I'd expect to have the types produced. However, the `out` directory is empty, with exception of the `out/_sdk` directory which seems to be scaffolded.
+
 ```bash
 git clone git@github.com:takahser/typechain-example.git
 cd typechain-example
